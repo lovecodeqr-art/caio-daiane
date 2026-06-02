@@ -3,7 +3,7 @@
    ========================================================================== */
 const CONFIG = {
     nomesCasal: "Caio Felipe & Daiane Gomes",              // Nome dos dois
-    dataInicio: "2018-08-06 20:30:00",           // Formato exato: AAAA-MM-DD HH:MM:SS
+    dataInicio: "2017-08-06 20:30:00",           // Formato exato: AAAA-MM-DD HH:MM:SS
     tituloCarta: "Para o amor da minha vida",    // Título dentro da cartinha inicial
     resumoCarta: "Clique aqui, preparei uma surpresa para você... ❤️", 
     
